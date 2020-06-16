@@ -4,14 +4,14 @@ The Magic Client gives the best FPS in Comparison to all other krunker clients l
  Soon the client will be coming as extension and will be one of the best krunker clients for windows
 
 FEATURES
-
 -Gives High FPS
 -Different Looking Client
 
 CLIENT DEVELOPER
-
 -Magiclove
 
 SITE DEVELOPER
-
 -CoderZ90
+
+SITE : https://coderz90.github.io/magic-client.github.io/
+DO VISIT
